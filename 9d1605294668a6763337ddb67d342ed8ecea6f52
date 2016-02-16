@@ -1,0 +1,8 @@
+Code-Review+2: Kanagaraj Manickam <mkr1481@gmail.com>
+Workflow+1: Kanagaraj Manickam <mkr1481@gmail.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Tue, 16 Feb 2016 10:05:20 +0000
+Reviewed-on: https://review.openstack.org/280584
+Project: openstack/python-namosclient
+Branch: refs/heads/master
